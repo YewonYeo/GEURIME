@@ -106,10 +106,6 @@
 - MySQL 8.0.29
 - Hibernate 5.6.9 Final
 
-**Backend - Hadoop**
-
-
-
 **Frontend - React**
 
 - Visual Studio Code IDE
@@ -191,6 +187,7 @@ geurime-front
 ```
 <br/>
 <br/>
+
 ## 💻 협업 툴
 
 ---
@@ -228,20 +225,6 @@ geurime-front
   <br/>
 <br/>
 
-## 👨‍👩‍👧‍👦 팀원 역할 분배
-
----
-
-![역할 분배](/uploads/225c82d3389fc79739b821b7d61792cb/Geurime_팀원.PNG)
-
-- 팀장 : [신지한](https://github.com/shinzan7)
-- 팀원 : [박윤하](https://github.com/0atx)
-- 팀원 : [여예원](https://github.com/YewonYeo)
-- 팀원 : [유현욱](https://github.com/hyundnr)
-- 팀원 : [조혜안](https://github.com/chohyean)
-- 팀원 : [한하평](https://github.com/gks3075)
-<br/>
-<br/>
 
 ## 📋 프로젝트 산출물
 
