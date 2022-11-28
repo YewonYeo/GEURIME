@@ -1,6 +1,5 @@
-# ✨그리미(Geurime) - 우리 아이 추억 저장소, 그리미
-
-<img src="https://user-images.githubusercontent.com/55011885/203720193-d4b1d011-3627-4cc6-ad15-ebfbb497e985.png" alt="배너 이미지">
+# ✨그리미(Geurime) - 그림 일기 등록 및 AI 감정 분석 서비스
+![Group 439](https://user-images.githubusercontent.com/98465383/204219269-462674b8-756c-45eb-8b2e-86b03a8c4974.png)
 
 
 <br/>
@@ -10,15 +9,13 @@
 - 2022.10.10 ~ 2022.11.18
 - SSAFY 7기 2학기 자율프로젝트
 
----
+<br/>
+<br/>
 
-## 🔎 그리미 - 개요
+## 🔎 프로젝트 개요
 
 - ### **우리 아이 추억 저장소, 그리미!**
-  - 그리미는 그림 일기 작성을 보다 쉽고 간편하게 할 수 있도록 도와주고, 등록된 그림들을 AI 분석을 통해 감정 상태를 예측해주는 서비스입니다.
-    그리미는 **아이 그림 보관 & 아이 심리 상태**에 관심 있는 부모들을 위한 그림 등록 & 그림 AI 분석 웹앱 서비스입니다.
-    <br/>
-
+- 그리미는 아이들이 그림 일기 작성을 쉽고 간편하게 할 수 있도록 도와주고, 등록된 그림들을 AI를 통해 감정을 분석하는 서비스입니다.
 <br/>
 
 ---
@@ -29,24 +26,24 @@
   - 과거 날씨 자동 매핑 기능을 제공합니다.(기상청 데이터 크롤링을 통해 과거 날씨 조회)
   - 목소리로 일기 작성 및 수정할 수 있습니다.(react-speech-recognition 라이브러리 사용)
   - 그림판을 이용한 그림 그리기가 가능합니다.(react-canvas-draw 라이브러리를 이용해 canvas 그림판 구현)
-   <br/>
+   
 
 - ### 그림 갤러리
   - 그림을 등록하거나 일기 작성을 통해 업로드한 그림을 볼 수 있습니다.
   - 보관함을 추가하여 폴더별로 그림을 나눌 수 있습니다.
   - 가족 간 아이 정보 연동을 통해 자녀의 갤러리를 공유할 수 있습니다.
 
-    <br/>
+    
 - ### 그림 AI 분석
   - 그림일기와 그림 등록으로 업로드한 그림을 AI 분석을 통해 그림에 담긴 감정을 분석할 수 있습니다.
   - 메인 화면에서는 아이의 월별 감정 분석 통계를 확인할 수 있습니다.
 
-    <br/>
+   
 - ### 커뮤니티
   - 자유/질문/정보 카테고리 별로 소통할 장소를 제공하고 있습니다.
   - 커뮤니티를 통해 아이 관련 정보를 나누거나, 자녀 상담 관련 정보, 그림 대회 정보 등을 공유할 수 있습니다.
 
-    <br/>
+    
 
   <br/>
 
@@ -54,29 +51,43 @@
 
 ## 🖥️ 화면 구성
 
+
+------|------|-----
+<img src="https://user-images.githubusercontent.com/55011885/203720598-01685867-cc08-4a3f-a38b-921c52986ee9.png" width="25%" height="25%" />  |1행2열|1행3열
+2행1열|2행2열|3행3열
+    
+
 - ### 홈 화면
-![홈](https://user-images.githubusercontent.com/55011885/203720598-01685867-cc08-4a3f-a38b-921c52986ee9.png)
+<img src="https://user-images.githubusercontent.com/55011885/203720598-01685867-cc08-4a3f-a38b-921c52986ee9.png" width="25%" height="25%" />
 <br/>
+
 - ### 소셜로그인 후 회원가입
-![회원가입](https://user-images.githubusercontent.com/55011885/203720728-7b797512-858f-4055-a292-3527611383ac.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720728-7b797512-858f-4055-a292-3527611383ac.gif" width="25%" height="25%" />
 <br/>
+
 - ### 회원 정보 및 자녀 정보 수정 페이지
-![회원정보_수정](https://user-images.githubusercontent.com/55011885/203720794-8cd89e6a-aedd-4efa-b32b-ca1638a6fb43.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720794-8cd89e6a-aedd-4efa-b32b-ca1638a6fb43.gif" width="25%" height="25%" />
 <br/>
+
 - ### 초대링크 발급 및 초대링크로 회원가입 페이지
-![초대회원가입](https://user-images.githubusercontent.com/55011885/203720520-8c8c5bc8-53a5-4573-b93d-4cee92c85db5.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720520-8c8c5bc8-53a5-4573-b93d-4cee92c85db5.gif" width="25%" height="25%" />
 <br/>
+
 - ### 그림 일기 등록 페이지
-![그림 일기 등록](https://user-images.githubusercontent.com/55011885/203720839-4005bbfc-4455-4cc6-b94c-dedde3f0f40f.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720839-4005bbfc-4455-4cc6-b94c-dedde3f0f40f.gif" width="25%" height="25%" />
 <br/>
+
 - ### 그림 등록 페이지
-![그림 등록](https://user-images.githubusercontent.com/55011885/203720438-d9765f07-490e-404e-b41f-037cc30abe94.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720438-d9765f07-490e-404e-b41f-037cc30abe94.gif" width="25%" height="25%" />
 <br/>
+
 - ### 그림 감정 분석 결과 페이지
-![그림 감정 분석 결과 페이지](https://user-images.githubusercontent.com/55011885/203720933-161995c9-70f9-47a3-9285-bd5ba286053b.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203720933-161995c9-70f9-47a3-9285-bd5ba286053b.gif" width="25%" height="25%" />
 <br/>
+
 - ### 게시판 페이지
-![게시판](https://user-images.githubusercontent.com/55011885/203721103-91248879-8f7e-438e-b2ea-3aa37d64c127.gif)
+<img src="https://user-images.githubusercontent.com/55011885/203721103-91248879-8f7e-438e-b2ea-3aa37d64c127.gif" width="25%" height="25%" />
+
 
 <br/>
 <br/>
