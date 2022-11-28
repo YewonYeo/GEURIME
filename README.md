@@ -51,12 +51,6 @@
 
 ## 🖥️ 화면 구성
 
-
-------|------|-----
-<img src="https://user-images.githubusercontent.com/55011885/203720598-01685867-cc08-4a3f-a38b-921c52986ee9.png" width="25%" height="25%" />  |1행2열|1행3열
-2행1열|2행2열|3행3열
-    
-
 - ### 홈 화면
 <img src="https://user-images.githubusercontent.com/55011885/203720598-01685867-cc08-4a3f-a38b-921c52986ee9.png" width="25%" height="25%" />
 <br/>
